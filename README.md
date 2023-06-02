@@ -7,7 +7,6 @@
 
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 
 ## Installation
@@ -21,9 +20,6 @@
 * Run Seeds/index.js
 * Run the server 
 
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
 
 ## License
 
